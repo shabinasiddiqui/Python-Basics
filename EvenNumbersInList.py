@@ -6,4 +6,4 @@ def IsEven(list, new_list):
 new_list=[]
 list = [ 4, 6, 3, 5, 2, 1, 2, 7, 5, 64, 14] 
 IsEven(list, new_list)
-print(f"Even numbers in the fiven string are: {new_list}") 
+print(f"Even numbers in the given string are: {new_list}") 
