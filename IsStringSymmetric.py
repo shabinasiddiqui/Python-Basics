@@ -1,6 +1,4 @@
-def Symmetric(str):                   #a k a k k a    a k a a k
-                                      #0 1 2 3 4 5
-                                      
+def Symmetric(str):
   low=0
   flag=0
   n =len(str)
